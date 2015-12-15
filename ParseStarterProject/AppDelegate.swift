@@ -29,8 +29,8 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Remove this line if you don't want to use Local Datastore features or want to use cachePolicy.
         Parse.enableLocalDatastore()
 
-        Parse.setApplicationId("XXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-            clientKey: "XXXXXXXXXXXXXXXXXXXXXXXXXXX")
+        Parse.setApplicationId("lUStD9AmOyEiNRcJ0IMv9hmDRwBy1pJMxC1D8mXl",
+            clientKey: "EpUz44gMXpiIH1eS1Ypk7b31ItDBl0Yt29Dyf8xJ")
 
        // PFUser.enableAutomaticUser()
 
